@@ -3,14 +3,23 @@ A magisk module for devices that use MVNO (Mobile Virtual Network Operator) carr
 
 TO INSTALL:
 Install Magisk on your custom ROM
+
 Add latest release's ZIP file to modules
+
 Reboot
+
 Go to Network And Internet Settings
+
 SIMs
+
 Select your main SIM
+
 Scroll down to and select "Access Point Names"
+
 3 dots in corner
+
 RESET TO DEFAULT
+
 Enable new APN that appears 
 
 
