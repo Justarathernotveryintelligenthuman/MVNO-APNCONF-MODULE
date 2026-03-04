@@ -1,5 +1,5 @@
 # MVNO-APNCONF-MODULE
-A magisk module for devices that use MVNO (Mobile Virtual Network Operator) carriers that dont work when a custom ROM is flashed. Automatically flashes default APNS config file and fixes most MVNO carrier issues.
+A magisk module for devices that use MVNO (Mobile Virtual Network Operator) carriers that dont work when a custom ROM is flashed. Automatically flashes default APNS config file and fixes most MVNO carrier issues. Note: This only needs to be run once. After APN is fixed, you can safely remove this module.
 
 TO INSTALL:
 Install Magisk on your custom ROM
